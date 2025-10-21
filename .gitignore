@@ -193,3 +193,7 @@ FakesAssemblies/
 
 /.sonarqube
 coverage.opencover.xml
+
+# Local configuration files (credentials and secrets)
+appsettings.Development.json
+appsettings.Local.json
